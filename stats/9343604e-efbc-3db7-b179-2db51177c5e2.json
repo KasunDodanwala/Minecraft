@@ -1,0 +1,69 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1,
+      "minecraft:beetroot": 188,
+      "minecraft:shears": 1,
+      "minecraft:pink_petals": 2
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 2
+    },
+    "minecraft:used": {
+      "minecraft:red_wool": 328,
+      "minecraft:water_bucket": 15,
+      "minecraft:diamond_axe": 3,
+      "minecraft:diamond_hoe": 22,
+      "minecraft:diamond_pickaxe": 17,
+      "minecraft:bucket": 15,
+      "minecraft:spyglass": 64,
+      "minecraft:pumpkin_pie": 10,
+      "minecraft:beetroot_seeds": 178,
+      "minecraft:white_bed": 4,
+      "minecraft:dirt": 103,
+      "minecraft:cobblestone": 12
+    },
+    "minecraft:mined": {
+      "minecraft:dirt": 47,
+      "minecraft:cobblestone": 12,
+      "minecraft:red_wool": 4,
+      "minecraft:white_bed": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5323,
+      "minecraft:walk_one_cm": 172312,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 6918,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 180,
+      "minecraft:play_time": 95387,
+      "minecraft:damage_dealt": 240,
+      "minecraft:jump": 1042,
+      "minecraft:time_since_death": 95387,
+      "minecraft:drop": 6,
+      "minecraft:sprint_one_cm": 185944,
+      "minecraft:open_chest": 19,
+      "minecraft:sleep_in_bed": 7,
+      "minecraft:fall_one_cm": 27441,
+      "minecraft:total_world_time": 95387,
+      "minecraft:swim_one_cm": 30941,
+      "minecraft:fly_one_cm": 236519,
+      "minecraft:walk_on_water_one_cm": 13674,
+      "minecraft:crouch_one_cm": 9520,
+      "minecraft:sneak_time": 6591
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:beetroot_seeds": 516,
+      "minecraft:dirt": 66,
+      "minecraft:red_wool": 132,
+      "minecraft:cobblestone": 12,
+      "minecraft:white_wool": 2,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:white_bed": 3,
+      "minecraft:mutton": 2,
+      "minecraft:beetroot": 188
+    }
+  },
+  "DataVersion": 4671
+}
