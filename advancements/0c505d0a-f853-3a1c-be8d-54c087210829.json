@@ -388,7 +388,8 @@
       "bread": "2026-02-02 00:06:45 +0530",
       "cooked_chicken": "2026-02-01 21:52:42 +0530",
       "rotten_flesh": "2026-02-01 22:03:56 +0530",
-      "cooked_mutton": "2026-02-01 22:01:39 +0530"
+      "cooked_mutton": "2026-02-01 22:01:39 +0530",
+      "cooked_beef": "2026-02-18 19:24:54 +0530"
     },
     "done": false
   },
@@ -558,7 +559,8 @@
       "minecraft:silverfish": "2026-02-10 20:43:55 +0530",
       "minecraft:spider": "2026-02-01 22:05:12 +0530",
       "minecraft:zombie": "2026-02-01 22:02:28 +0530",
-      "minecraft:creeper": "2026-02-01 22:16:42 +0530"
+      "minecraft:creeper": "2026-02-01 22:16:42 +0530",
+      "minecraft:drowned": "2026-02-18 18:09:50 +0530"
     },
     "done": false
   },
@@ -2960,6 +2962,24 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2026-02-10 20:06:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-02-18 19:22:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-02-18 19:22:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-02-18 18:30:03 +0530"
     },
     "done": true
   },
