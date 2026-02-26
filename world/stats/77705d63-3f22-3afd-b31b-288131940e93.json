@@ -1,0 +1,87 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:chicken": 3,
+      "minecraft:skeleton_horse": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 1,
+      "minecraft:spider": 1,
+      "minecraft:zombie": 9
+    },
+    "minecraft:dropped": {
+      "minecraft:egg": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3087,
+      "minecraft:walk_one_cm": 1225378,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 50202,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 5354,
+      "minecraft:play_time": 189898,
+      "minecraft:damage_dealt": 588,
+      "minecraft:jump": 1066,
+      "minecraft:time_since_death": 4740,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 80213,
+      "minecraft:open_chest": 1,
+      "minecraft:sleep_in_bed": 7,
+      "minecraft:fall_one_cm": 31584,
+      "minecraft:total_world_time": 189898,
+      "minecraft:fly_one_cm": 6197,
+      "minecraft:walk_on_water_one_cm": 19638,
+      "minecraft:crouch_one_cm": 550,
+      "minecraft:sneak_time": 64,
+      "minecraft:deaths": 16,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 39,
+      "minecraft:dirt": 35,
+      "minecraft:poppy": 2,
+      "minecraft:saddle": 1,
+      "minecraft:feather": 2,
+      "minecraft:cherry_sapling": 2,
+      "minecraft:chicken": 3,
+      "minecraft:torch": 2,
+      "minecraft:cookie": 1,
+      "minecraft:cherry_log": 9,
+      "minecraft:oxeye_daisy": 3,
+      "minecraft:leaf_litter": 1,
+      "minecraft:pumpkin_seeds": 6,
+      "minecraft:sand": 4,
+      "minecraft:dandelion": 10,
+      "minecraft:wheat_seeds": 57,
+      "minecraft:diamond": 1,
+      "minecraft:wheat": 4,
+      "minecraft:cornflower": 2,
+      "minecraft:orange_bed": 1,
+      "minecraft:pink_petals": 1
+    },
+    "minecraft:used": {
+      "minecraft:orange_bed": 1
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 21,
+      "minecraft:torch": 2,
+      "minecraft:cherry_log": 9,
+      "minecraft:bush": 12,
+      "minecraft:dirt": 4,
+      "minecraft:dandelion": 11,
+      "minecraft:grass_block": 11,
+      "minecraft:wheat": 3,
+      "minecraft:pink_petals": 1,
+      "minecraft:short_grass": 481,
+      "minecraft:sand": 4,
+      "minecraft:cherry_leaves": 8,
+      "minecraft:poppy": 3,
+      "minecraft:cornflower": 2,
+      "minecraft:oxeye_daisy": 4,
+      "minecraft:leaf_litter": 1,
+      "minecraft:azure_bluet": 2
+    }
+  },
+  "DataVersion": 4671
+}
