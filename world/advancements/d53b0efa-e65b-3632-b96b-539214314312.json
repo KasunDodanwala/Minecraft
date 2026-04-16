@@ -650,6 +650,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-04-13 22:38:56 +0530",
       "minecraft:zombie_nautilus": "2026-03-02 23:17:33 +0530",
       "minecraft:skeleton": "2026-02-08 22:58:44 +0530",
       "minecraft:zombified_piglin": "2026-03-03 00:21:45 +0530",
@@ -3233,6 +3234,36 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2026-03-15 22:11:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_shelf": {
+    "criteria": {
+      "has_stripped_jungle_log": "2026-04-13 21:56:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-13 22:38:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-04-13 22:32:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-04-13 21:56:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2026-04-13 21:56:48 +0530"
     },
     "done": true
   },
