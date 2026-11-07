@@ -1,0 +1,8 @@
+# Only the worlds are backed up. Every world is a folder (main/, myworld/, ...) with its own server
+# files; git tracks just <world>/world, <world>/world_nether and <world>/world_the_end.
+*
+!.gitignore
+!*/
+!*/world/**
+!*/world_nether/**
+!*/world_the_end/**
