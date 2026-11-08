@@ -1317,7 +1317,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2026-02-18 18:38:08 +0530"
+      "minecraft:nether_wastes": "2026-02-18 18:38:08 +0530",
+      "minecraft:basalt_deltas": "2026-11-08 14:12:25 +0530"
     },
     "done": false
   },
