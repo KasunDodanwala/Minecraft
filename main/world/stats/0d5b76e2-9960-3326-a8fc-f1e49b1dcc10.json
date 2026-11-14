@@ -1,34 +1,10 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 1934,
-      "minecraft:walk_one_cm": 17362,
-      "minecraft:leave_game": 3,
-      "minecraft:walk_under_water_one_cm": 14634,
-      "minecraft:damage_taken": 2195,
-      "minecraft:damage_dealt": 146,
-      "minecraft:play_time": 10107,
-      "minecraft:jump": 269,
-      "minecraft:time_since_death": 1908,
-      "minecraft:sprint_one_cm": 46705,
-      "minecraft:open_chest": 18,
-      "minecraft:fall_one_cm": 31267,
-      "minecraft:swim_one_cm": 17980,
-      "minecraft:total_world_time": 10107,
-      "minecraft:fly_one_cm": 74057,
-      "minecraft:walk_on_water_one_cm": 2041,
-      "minecraft:crouch_one_cm": 6333,
-      "minecraft:sneak_time": 1070,
-      "minecraft:deaths": 2
-    },
     "minecraft:used": {
       "minecraft:egg": 1,
       "minecraft:mutton": 1,
       "minecraft:stone_pickaxe": 6,
       "minecraft:cooked_chicken": 1
-    },
-    "minecraft:broken": {
-      "minecraft:stone_pickaxe": 1
     },
     "minecraft:picked_up": {
       "minecraft:dirt": 11,
@@ -40,6 +16,31 @@
       "minecraft:bone": 1,
       "minecraft:arrow": 1,
       "minecraft:cooked_chicken": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3742,
+      "minecraft:walk_one_cm": 21383,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 23917,
+      "minecraft:damage_taken": 2195,
+      "minecraft:damage_dealt": 146,
+      "minecraft:play_time": 11915,
+      "minecraft:jump": 296,
+      "minecraft:time_since_death": 3716,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 57381,
+      "minecraft:open_chest": 33,
+      "minecraft:fall_one_cm": 32530,
+      "minecraft:swim_one_cm": 19277,
+      "minecraft:total_world_time": 11915,
+      "minecraft:fly_one_cm": 82399,
+      "minecraft:walk_on_water_one_cm": 2584,
+      "minecraft:crouch_one_cm": 6333,
+      "minecraft:sneak_time": 1070,
+      "minecraft:deaths": 2
+    },
+    "minecraft:broken": {
+      "minecraft:stone_pickaxe": 1
     }
   },
   "DataVersion": 4671
