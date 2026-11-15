@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:creeper": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:string": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 123,
+      "minecraft:walk_one_cm": 5444,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 315,
+      "minecraft:play_time": 2272,
+      "minecraft:damage_dealt": 159,
+      "minecraft:jump": 60,
+      "minecraft:time_since_death": 54,
+      "minecraft:fall_one_cm": 2800,
+      "minecraft:total_world_time": 2272,
+      "minecraft:fly_one_cm": 358,
+      "minecraft:sneak_time": 1,
+      "minecraft:deaths": 1
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    }
+  },
+  "DataVersion": 4671
+}
